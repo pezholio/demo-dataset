@@ -1,0 +1,1 @@
+{"name":"demo-dataset","title":"Demo Dataset","description":"Some Data","licenses":[{"url":"https://creativecommons.org/licenses/by/4.0/","title":"Creative Commons Attribution 4.0"}],"publishers":[{"name":"Me","web":"http://example.com"}],"resources":[{"name":"Data","mediatype":"text/csv","description":"Stuff","path":"data/data.csv"}]}
